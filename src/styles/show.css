@@ -54,7 +54,7 @@ table {
   box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
 }
 .active_content h4 {
-  /*line-height: 0;*/
+  line-height: 0;
 }
 .active_content span {
   font-size: 12px;
